@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-truncate"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Умное обрезание текста с сохранением целых слов."
+    репозиторий = "github.com/skytech-alt/skyforge-truncate"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
